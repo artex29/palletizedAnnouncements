@@ -76,7 +76,7 @@
       "step5": null
     },
     "rules": [
-      "forAllUsers"
+      "forNewVersion"
     ],
     "startDate": null,
     "endDate": null
