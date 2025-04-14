@@ -19,7 +19,10 @@
       "step3": null,
       "step4": null,
       "step5": null
-    }
+    },
+    "rules": [
+      "forAllUsers"
+    ]
   },
   {
     "id": "come_back_promo",
@@ -41,7 +44,11 @@
       "step3": null,
       "step4": null,
       "step5": null
-    }
+    },
+    "rules": [
+      "forInactiveSubscription",
+      "forReturningUser"
+    ]
   },
   {
     "id": "new_version_released",
@@ -63,6 +70,9 @@
       "step3": null,
       "step4": null,
       "step5": null
-    }
+    },
+    "rules": [
+      "forAllUsers"
+    ]
   }
 ]
