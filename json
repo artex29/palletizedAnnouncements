@@ -82,32 +82,30 @@
     "endDate": null
   },
   {
-  "id": "new_user_special_offer",
-  "titles": {
-    "en": "Special Offer for New Users 🎉",
-    "es": "¡Oferta especial para nuevos usuarios 🎉!",
-    "pt": "Oferta especial para novos usuários 🎉",
-    "it": "Offerta speciale per i nuovi utenti 🎉"
-  },
-  "hooks": {
-    "en": "Unlock Palletized Pro today at a special low price!",
-    "es": "¡Desbloquea Palletized Pro hoy a un precio especial!",
-    "pt": "Desbloqueie o Palletized Pro hoje com um preço especial!",
-    "it": "Sblocca Palletized Pro oggi a un prezzo speciale!"
-  },
-  "pathSteps": {
-    "step1": "activatePaywall",
-    "step2": null,
-    "step3": null,
-    "step4": null,
-    "step5": null
-  },
-  "rules": [
-    "forFirstTimeUser"
-  ],
-  "startDate": "2025-04-10T00:00:00Z",
-  "endDate": "2025-06-30T23:59:59Z"
-}
-
+    "id": "new_user_special_offer",
+    "titles": {
+      "en": "Special Offer for New Users 🎉",
+      "es": "¡Oferta especial para nuevos usuarios 🎉!",
+      "pt": "Oferta especial para novos usuários 🎉",
+      "it": "Offerta speciale per i nuovi utenti 🎉"
+    },
+    "hooks": {
+      "en": "Unlock Palletized Pro today at a special low price!",
+      "es": "¡Desbloquea Palletized Pro hoy a un precio especial!",
+      "pt": "Desbloqueie o Palletized Pro hoje com um preço especial!",
+      "it": "Sblocca Palletized Pro oggi a un prezzo speciale!"
+    },
+    "pathSteps": {
+      "step1": "activatePaywall",
+      "step2": null,
+      "step3": null,
+      "step4": null,
+      "step5": null
+    },
+    "rules": [
+      "forFirstTimeUser"
+    ],
+    "startDate": "2025-04-10T00:00:00Z",
+    "endDate": "2025-06-30T23:59:59Z"
+  }
 ]
-
