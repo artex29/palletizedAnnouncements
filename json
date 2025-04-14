@@ -22,7 +22,9 @@
     },
     "rules": [
       "forAllUsers"
-    ]
+    ],
+    "startDate": "2025-04-10T00:00:00Z",
+    "endDate": "2025-06-30T23:59:59Z"
   },
   {
     "id": "come_back_promo",
@@ -48,7 +50,9 @@
     "rules": [
       "forInactiveSubscription",
       "forReturningUser"
-    ]
+    ],
+    "startDate": null,
+    "endDate": null
   },
   {
     "id": "new_version_released",
@@ -73,6 +77,9 @@
     },
     "rules": [
       "forAllUsers"
-    ]
+    ],
+    "startDate": null,
+    "endDate": null
   }
 ]
+
