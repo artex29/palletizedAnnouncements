@@ -8,10 +8,10 @@
       "it": "Ottieni 1 anno gratuito di Palletized Pro"
     },
     "hooks": {
-      "en": "Yes, seriously. Just follow these 3 steps",
-      "es": "Sip, es en serio. Solo sigue estos 3 pasos",
-      "pt": "Sim, é sério. Basta seguir estes 3 passos",
-      "it": "Sì, sul serio. Segui solo questi 3 passaggi"
+      "en": "Yes, seriously. Just follow these 2 steps",
+      "es": "Sip, es en serio. Solo sigue estos 2 pasos",
+      "pt": "Sim, é sério. Basta seguir estes 2 passos",
+      "it": "Sì, sul serio. Segui solo questi 2 passaggi"
     },
     "pathSteps": {
       "step1": "settings",
@@ -23,8 +23,8 @@
     "rules": [
       "forAllUsers"
     ],
-    "startDate": "2025-04-10T00:00:00Z",
-    "endDate": "2025-05-12T23:59:59Z"
+    "startDate": "2025-06-26T00:00:00Z",
+    "endDate": "2025-07-31T23:59:59Z"
   },
   {
     "id": "come_back_promo",
