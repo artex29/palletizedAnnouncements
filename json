@@ -4,12 +4,12 @@
     "titles": {
       "en": "Get 1 Year Free of Palletized Pro",
       "es": "Obtén un año gratis de Palletized Pro",
-      "pt": "Ganhe 1 ano grátis de Palletized Pro",
+      "pt": "Ganhe 1 ano grátis do Palletized Pro",
       "it": "Ottieni 1 anno gratuito di Palletized Pro"
     },
     "hooks": {
       "en": "Yes, seriously. Just follow these 2 steps",
-      "es": "Sip, es en serio. Solo sigue estos 2 pasos",
+      "es": "Sí, en serio. Solo sigue estos 2 pasos",
       "pt": "Sim, é sério. Basta seguir estes 2 passos",
       "it": "Sì, sul serio. Segui solo questi 2 passaggi"
     },
@@ -29,16 +29,16 @@
   {
     "id": "come_back_promo",
     "titles": {
-      "en": "Come back to Palletized Pro",
+      "en": "Come Back to Palletized Pro",
       "es": "Vuelve a Palletized Pro",
       "pt": "Volte para o Palletized Pro",
       "it": "Torna a Palletized Pro"
     },
     "hooks": {
-      "en": "Get the most of Palletized Pro at this lowered price just for you",
-      "es": "Aprovecha Palletized Pro a este precio especial solo para ti",
-      "pt": "Aproveite o Palletized Pro por este preço especial apenas para você",
-      "it": "Approfitta di Palletized Pro a questo prezzo speciale solo per te"
+      "en": "Get the most out of Palletized Pro at this special price just for you",
+      "es": "Aprovecha al máximo Palletized Pro a este precio especial solo para ti",
+      "pt": "Aproveite ao máximo o Palletized Pro por este preço especial só para você",
+      "it": "Sfrutta al massimo Palletized Pro a questo prezzo speciale solo per te"
     },
     "pathSteps": {
       "step1": "activatePaywall",
@@ -58,15 +58,15 @@
     "id": "new_version_released",
     "titles": {
       "en": "New Version Released!",
-      "es": "¡Nueva Versión Lanzada!",
-      "pt": "Nova Versão Lançada!",
-      "it": "Nuova Versione Rilasciata!"
+      "es": "¡Nueva versión lanzada!",
+      "pt": "Nova versão lançada!",
+      "it": "Nuova versione rilasciata!"
     },
     "hooks": {
-      "en": "New features and faster calculations await you.",
-      "es": "Nuevas funciones y cálculos más rápidos te esperan.",
-      "pt": "Novas funções e cálculos mais rápidos esperam por você.",
-      "it": "Nuove funzionalità e calcoli più veloci ti aspettano."
+      "en": "Scan barcodes, edit loads, design cartons, collaborate! Update now.",
+      "es": "Escanea códigos de barras, edita cargas, diseña cajas, colabora. Actualiza ya.",
+      "pt": "Escaneie códigos de barras, edite cargas, projete caixas, colabore! Atualize agora.",
+      "it": "Scansiona codici a barre, modifica i carichi, progetta scatole, collabora! Aggiorna ora."
     },
     "pathSteps": {
       "step1": "https://apps.apple.com/us/app/palletized-3d-cargo-optimizer/id6447257927",
