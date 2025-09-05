@@ -80,5 +80,30 @@
     ],
     "startDate": null,
     "endDate": null
+  },
+  {
+  "id": "discover_new_features",
+  "titles": {
+    "en": "Are You Using Everything?",
+    "es": "¿Estás usando todo?",
+    "pt": "Você está usando tudo?",
+    "it": "Stai usando tutto?"
+  },
+  "hooks": {
+    "en": "Scan barcodes. Design custom cartons. Edit loads. Collaborate. Palletized is more powerful than ever.",
+    "es": "Escanea códigos. Diseña cajas. Edita cargas. Colabora. Palletized es más poderoso que nunca.",
+    "pt": "Escaneie códigos. Crie caixas. Edite cargas. Colabore. O Palletized está mais potente do que nunca.",
+    "it": "Scansiona codici. Progetta scatole. Modifica i carichi. Collabora. Palletized non è mai stato così potente."
+  },
+  "pathSteps": {
+    "step1": "settings",
+    "step2": null,
+    "step3": null,
+    "step4": null,
+    "step5": null
+  },
+  "rules": ["forAllUsers"],
+  "startDate": "2025-09-05T00:00:00Z",
+  "endDate": "2025-10-05T23:59:59Z"
   }
 ]
