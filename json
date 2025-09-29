@@ -96,14 +96,14 @@
     "it": "Scansiona codici. Progetta scatole. Modifica i carichi. Collabora. Palletized non è mai stato così potente."
   },
   "pathSteps": {
-    "step1": "settings",
+    "step1": "activatePaywall",
     "step2": null,
     "step3": null,
     "step4": null,
     "step5": null
   },
-  "rules": ["forAllUsers"],
+  "rules": ["forInactiveSubscription, forFirstTimeUser"],
   "startDate": "2025-09-05T00:00:00Z",
-  "endDate": "2025-10-05T23:59:59Z"
+  "endDate": "2025-12-31T23:59:59Z"
   }
 ]
