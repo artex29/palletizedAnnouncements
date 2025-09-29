@@ -102,7 +102,7 @@
     "step4": null,
     "step5": null
   },
-  "rules": ["forInactiveSubscription, forFirstTimeUser"],
+  "rules": ["forInactiveSubscription", "forFirstTimeUser"],
   "startDate": "2025-09-05T00:00:00Z",
   "endDate": "2025-12-31T23:59:59Z"
   }
