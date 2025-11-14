@@ -1,5 +1,32 @@
 [
   {
+    "id": "supply_chain_awards",
+    "titles": {
+      "en": "Palletized Won 2 Awards",
+      "es": "Palletized ganó 2 premios",
+      "pt": "Palletized ganhou 2 prêmios",
+      "it": "Palletized ha vinto 2 premi"
+    },
+    "hooks": {
+      "en": "Palletized won in two categories at the 2025 Supply Chain Excellence Awards USA. Tap to see the full list of winners.",
+      "es": "Palletized ganó en dos categorías en los Supply Chain Excellence Awards USA 2025. Toca aquí para ver la lista completa de ganadores.",
+      "pt": "Palletized venceu em duas categorias no Supply Chain Excellence Awards USA 2025. Toque aqui para ver a lista completa de vencedores.",
+      "it": "Palletized ha vinto in due categorie ai Supply Chain Excellence Awards USA 2025. Tocca qui per vedere l'elenco completo dei vincitori."
+    },
+    "pathSteps": {
+      "step1": "https://www.supplychainexcellenceawardsusa.com/2025-winners",
+      "step2": null,
+      "step3": null,
+      "step4": null,
+      "step5": null
+    },
+    "rules": [
+      "forAllUsers"
+    ],
+    "startDate": null,
+    "endDate": null
+  },
+  {
     "id": "free_year_promo",
     "titles": {
       "en": "Get 1 Year Free of Palletized Pro",
@@ -82,28 +109,31 @@
     "endDate": null
   },
   {
-  "id": "discover_new_features",
-  "titles": {
-    "en": "Are You Using Everything?",
-    "es": "¿Estás usando todo?",
-    "pt": "Você está usando tudo?",
-    "it": "Stai usando tutto?"
-  },
-  "hooks": {
-    "en": "Scan barcodes. Design custom cartons. Edit loads. Collaborate. Palletized is more powerful than ever.",
-    "es": "Escanea códigos. Diseña cajas. Edita cargas. Colabora. Palletized es más poderoso que nunca.",
-    "pt": "Escaneie códigos. Crie caixas. Edite cargas. Colabore. O Palletized está mais potente do que nunca.",
-    "it": "Scansiona codici. Progetta scatole. Modifica i carichi. Collabora. Palletized non è mai stato così potente."
-  },
-  "pathSteps": {
-    "step1": "activatePaywall",
-    "step2": null,
-    "step3": null,
-    "step4": null,
-    "step5": null
-  },
-  "rules": ["forInactiveSubscription", "forFirstTimeUser"],
-  "startDate": "2025-09-05T00:00:00Z",
-  "endDate": "2025-12-31T23:59:59Z"
+    "id": "discover_new_features",
+    "titles": {
+      "en": "Are You Using Everything?",
+      "es": "¿Estás usando todo?",
+      "pt": "Você está usando tudo?",
+      "it": "Stai usando tutto?"
+    },
+    "hooks": {
+      "en": "Scan barcodes. Design custom cartons. Edit loads. Collaborate. Palletized is more powerful than ever.",
+      "es": "Escanea códigos. Diseña cajas. Edita cargas. Colabora. Palletized es más poderoso que nunca.",
+      "pt": "Escaneie códigos. Crie caixas. Edite cargas. Colabore. O Palletized está mais potente do que nunca.",
+      "it": "Scansiona codici. Progetta scatole. Modifica i carichi. Collabora. Palletized non è mai stato così potente."
+    },
+    "pathSteps": {
+      "step1": "activatePaywall",
+      "step2": null,
+      "step3": null,
+      "step4": null,
+      "step5": null
+    },
+    "rules": [
+      "forInactiveSubscription",
+      "forFirstTimeUser"
+    ],
+    "startDate": "2025-09-05T00:00:00Z",
+    "endDate": "2025-12-31T23:59:59Z"
   }
 ]
