@@ -23,8 +23,8 @@
     "rules": [
       "forAllUsers"
     ],
-    "startDate": null,
-    "endDate": null
+    "startDate": "2025-11-14T00:00:00Z",
+    "endDate": "2026-01-14T23:59:59Z"
   },
   {
     "id": "free_year_promo",
